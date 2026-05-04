@@ -43,22 +43,23 @@ I'm a passionate developer and open-source enthusiast dedicated to building crea
 
 ## 🎯 Featured Projects
 
-<!-- Replace these with your actual projects -->
+### 🚀 Nextcast
+A modern web application built with a focus on clean structure, maintainability, and practical deployment workflows.
 
-### Project 1: [Project Name]
-Brief description of what this project does and why it's interesting.
-- **Tech Stack:** Tech, Stack, Here
-- **Repository:** [View on GitHub](https://github.com/Saksen2k1/project-name)
+- **Tech Stack:** JavaScript, Node.js, npm, Docker, GitHub Actions
+- **Repository:** [View on GitHub](https://github.com/latenight-code/Nextcast)
 
-### Project 2: [Project Name]
-Brief description of this project's purpose and key features.
-- **Tech Stack:** Tech, Stack, Here
-- **Repository:** [View on GitHub](https://github.com/Saksen2k1/project-name)
+### 🎮 FiveM Server Development
+Custom development for ESX-based FiveM servers, including gameplay systems, event logic, UI features, and optimized server-side scripts.
 
-### Project 3: [Project Name]
-Description of another interesting project you've built.
-- **Tech Stack:** Tech, Stack, Here
-- **Repository:** [View on GitHub](https://github.com/Saksen2k1/project-name)
+- **Tech Stack:** Lua, ESX, FiveM, ox_lib, ox_inventory
+- **Focus Areas:** PvP systems, event gamemodes, inventory integration, server optimization
+
+### ⚙️ Automation & Optimization Tools
+Small tools and scripts focused on automation, system cleanup, performance improvements, and developer workflow improvements.
+
+- **Tech Stack:** Batch, PowerShell, JavaScript, Docker
+- **Focus Areas:** Automation, optimization, scripting, CLI tools
 
 ---
 
